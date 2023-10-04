@@ -1,0 +1,16 @@
+{
+  "name": "mscv",
+  "version": "0.0.1",
+  "description": "A CV but in your terminal 👀",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahmoud Shawa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.2",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
